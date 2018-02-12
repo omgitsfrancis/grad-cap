@@ -1,5 +1,8 @@
-# grad-cap
+# led-grad-cap
 LED grad cap for SDSU School of Engineering graduation ceremony 2016
+
+Goal: To light-up my graduation cap with led strips coded with custom animationpatterns while
+being clean, light-weight, and seemless.
 
 Materials used:
 - 3000mah Portable USB Battery
