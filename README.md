@@ -10,3 +10,4 @@ Materials used:
 - Adafruit NeoPixel Digital RGB LED Strip (WS2812B)
 - RadioShack Push Button
 
+Video: https://photos.app.goo.gl/u6adnGJmZaUqt2xw1
